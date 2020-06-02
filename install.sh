@@ -2,7 +2,7 @@
 
 # install stuff
 sudo apt update
-sudo apt install tmux vim fish git
+sudo apt install -y tmux vim fish git
 
 # get the dotfiles from my github
 git clone https://github.com/ingimarsson/dotfiles.git ~/.dotfiles
